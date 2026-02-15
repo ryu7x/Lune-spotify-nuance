@@ -1,0 +1,14 @@
+{
+    "name": "nuance-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Continuously scrapes Spotify web-player JS bundles to extract TOTP nuance secrets and saves them to nuance.json",
+    "main": "scraper.mjs",
+    "scripts": {
+        "start": "node scraper.mjs",
+        "once": "node scraper.mjs --once"
+    },
+    "dependencies": {
+        "puppeteer": "^24.4.0"
+    }
+}
