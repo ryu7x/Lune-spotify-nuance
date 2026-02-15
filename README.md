@@ -57,15 +57,6 @@ If you are looking for the latest extracted nuances for your own projects, use t
 
 ---
 
-### 🎨 Aesthetic Logging
-The scraper features a premium logging system that visualizes every step of the process:
-- `[ FETCH ]` DOM navigation and page state.
-- `[ LUNE  ]` Script scanning and Match identification.
-- `[ PROCESS ]` Granular secret extraction from logic pools.
-- `[ MERGE ]` Database updates and versioning sync.
-
----
-
 <p align="center">
   <i>Developed for the Lune Ecosystem. Handle with care.</i>
 </p>
